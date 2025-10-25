@@ -1,0 +1,4 @@
+Un jeu d’Halloween en terminal où tu explores la maison de Granny,
+apprends/pratiques des commandes Linux (cd, ls, cat, grep, find, sed, tar, mv, cp, rm),
+fouilles des fichiers et archives pour accomplir 5 étapes avec un seul essai chacune,
+un système de vies (3 au final, −1 par échec, 0 si réussi) et une vérification automatique.
