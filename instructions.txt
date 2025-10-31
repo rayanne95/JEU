@@ -13,7 +13,7 @@ Modifier texte1.txt
 
 Compter le nombre de mot du fichier (parmi ce nombre se cache le premier chiffre du code secret)
 
-Pour trouver le bon chiffre s'aider du nombre affichié dans le texte (leurs positions ne sont pas les bonnes...)
+Pour trouver le bon chiffre s'aider du nombre affichié dans le texte (les positions correspondantes ne sont pas les bonnes...)
 
 De plus, le chiffre représentant le nombre de fichier txt n'est également pas le bon.
 
