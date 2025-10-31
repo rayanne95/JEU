@@ -1,18 +1,19 @@
-Pour s'échapper de la maison de Granny il faut récupérer le code secret via des commandes linux !
+Pour s'échapper de la maison de Granny il faut récupérer le bon code secret dans le fichier code.txt via des commandes linux !
+
 Les instructions sont les suivantes : 
 
 Copier le fichier texte.txt dans un nouveau fichier appelé texte1.txt
 
 Ecrire la commande 'chmod u+x <fichier.sh> ' pour tout les fichier sh
 
-Lancer start.sh
+Lancer start.sh (le compte à rebours est lancé) 
 
 Modifier texte1.txt 
   retirer la premiere ligne et le premier paragraphe
 
-Compter le nombre de mot du fichier (parmi ce nombre il y a le premier chiffre du code secret)
+Compter le nombre de mot du fichier (parmi ce nombre se cache le premier chiffre du code secret)
 
-Pour trouver le bon chiffre s'aider du nombre affichié dans le texte (ils ne sont pas les bons...)
+Pour trouver le bon chiffre s'aider du nombre affichié dans le texte (leurs positions ne sont pas les bonnes...)
 
 De plus, le chiffre représentant le nombre de fichier txt n'est également pas le bon.
 
