@@ -16,4 +16,6 @@ Pour trouver le bon chiffre s'aider du nombre affichié dans le texte (ils ne so
 
 De plus, le chiffre représentant le nombre de fichier txt n'est également pas le bon.
 
+Lorsque le nombre a été trouvé, l'écrire dans le fichier reponse.txt et lancer validation.sh
+
 Si tu modifies l'histoire ou les codes, tout sera perdu. Bonne chance.
