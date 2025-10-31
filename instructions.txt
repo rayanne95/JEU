@@ -14,6 +14,6 @@ Compter le nombre de mot du fichier (parmi ce nombre il y a le premier chiffre d
 
 Pour trouver le bon chiffre s'aider du nombre affichié dans le texte (ils ne sont pas les bons...)
 
-De plus, le chiffre représentant le nombre de fichier txt n'est également pas le bon.
+De plus, le chiffre représentant le nombre de fichier txt initial n'est également pas le bon.
 
 Si tu modifies l'histoire ou les codes, tout sera perdu. Bonne chance.
