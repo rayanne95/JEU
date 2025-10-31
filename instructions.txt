@@ -11,7 +11,7 @@ Lancer start.sh (le compte à rebours est lancé)
 Modifier texte1.txt 
   retirer la premiere ligne et le premier paragraphe
 
-Compter le nombre de mot du fichier (parmi ce nombre se cache le premier chiffre du code secret)
+Compter le nombre de mot de ce fichier modifié (parmi ce nombre se cache le premier chiffre du code secret)
 
 Pour trouver le bon chiffre s'aider du nombre affichié dans le texte (les positions correspondantes ne sont pas les bonnes...)
 
