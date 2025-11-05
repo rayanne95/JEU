@@ -2,7 +2,7 @@ C'était la nuit d'Halloween. Vous cherchiez des bonbons. Dernière maison, la n
 
 Vous vous réveillez. La pièce est froide, la porte est bloquée. Vous êtes enfermé. L'horloge du couloir est figée sur **00:31**. Votre temps est compté.
 
-Sur une table, cette note :
+Sur une table, cette note (ouvrir le fichier instructions.txt) :
 
 Tu as 10 minutes pour quitter ma maison.
 
